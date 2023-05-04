@@ -1,0 +1,30 @@
+header {
+    background-color: white;
+}
+
+
+.username {
+    background-color: lightgrey;
+    padding: 130px;
+    text-align: center;
+}
+
+body {
+
+    border: solid 1px;
+     
+
+}
+
+button {
+    background-color:rgb(88, 88, 200);
+    border-radius: 7px;
+}
+
+footer {
+
+    background-color: rgb(113, 112, 112); 
+    padding: 70px;
+    text-align: top-center;
+    
+}
