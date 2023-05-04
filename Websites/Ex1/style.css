@@ -2,6 +2,49 @@ body {
     background-color: lightgray;
 }
 
-tr{
+header {
     background-color:lightblue ;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.h2 {
+    background-color: lemonchiffon;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+}
+
+footer {
+    background-color: lightseagreen;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.h1 {
+    background-color: lightcoral;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 45px;
+    margin: 20px; 
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: white;
+    padding: 10px;
+}
+td {
+    border: 1px solid white;
+    padding: 10px;
 }
