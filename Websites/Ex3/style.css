@@ -1,12 +1,19 @@
+* { margin: 0;}
+
+
 header {
     background-color: white;
 }
 
 
-.username {
+form {
     background-color: lightgrey;
-    padding: 130px;
+    height: 50vh;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
 
 body {
@@ -17,14 +24,17 @@ body {
 }
 
 button {
-    background-color:rgb(88, 88, 200);
-    border-radius: 7px;
+    background-color:#0072e1;
+    border-radius: 3px;
 }
 
 footer {
 
     background-color: rgb(113, 112, 112); 
-    padding: 70px;
-    text-align: top-center;
-    
+    height: 50vh;
+    text-align: center;
+}
+
+input {
+    margin: 10px;
 }
